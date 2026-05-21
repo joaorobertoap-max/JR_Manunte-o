@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="shadow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(0,0,0,0.12)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0)"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="25" result="blurred"/>
+      <feMerge>
+        <feMergeNode in="blurred"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <circle cx="450" cy="240" r="220" fill="#2563eb" opacity="0.16"/>
+  <circle cx="1520" cy="220" r="180" fill="#22c55e" opacity="0.14"/>
+  <rect x="520" y="260" width="860" height="520" rx="48" fill="#0f172a" opacity="0.88"/>
+  <rect x="560" y="300" width="780" height="420" rx="32" fill="url(#screenGrad)"/>
+  <rect x="620" y="340" width="650" height="320" rx="20" fill="#0f172a" opacity="0.18"/>
+  <g fill="none" stroke="#bfdbfe" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M680 400h320"/>
+    <path d="M680 470h280"/>
+    <path d="M680 540h220"/>
+    <path d="M680 610h180"/>
+  </g>
+  <rect x="1020" y="380" width="340" height="180" rx="18" fill="rgba(255,255,255,0.08)"/>
+  <path d="M1250 430h60v20h-60zm0 40h60v20h-60zm0 40h60v20h-60z" fill="#ffffff" opacity="0.75"/>
+  <circle cx="760" cy="750" r="160" fill="#ffffff" opacity="0.04"/>
+  <circle cx="790" cy="770" r="120" fill="#ffffff" opacity="0.05"/>
+  <rect x="860" y="650" width="320" height="220" rx="24" fill="#111827"/>
+  <rect x="900" y="690" width="240" height="140" rx="12" fill="#1f2937"/>
+  <path d="M950 760h140" stroke="#60a5fa" stroke-width="12" stroke-linecap="round"/>
+  <path d="M960 710h100" stroke="#c7d2fe" stroke-width="10" stroke-linecap="round"/>
+  <path d="M960 780h100" stroke="#c7d2fe" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1008 635l48-88 80 44-48 88z" fill="#f97316" opacity="0.72"/>
+  <path d="M1090 600l20 12 20-32" fill="none" stroke="#fcd34d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M750 590l54 12 22-100 56 18 16 98 62 14" fill="none" stroke="#93c5fd" stroke-width="12" stroke-linecap="round"/>
+  <path d="M780 610c28-46 76-64 122-42" stroke="#22d3ee" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="280" y="620" width="660" height="320" rx="28" fill="#111827" opacity="0.75"/>
+  <rect x="360" y="680" width="260" height="180" rx="18" fill="#1f2937"/>
+  <path d="M420 730h170" stroke="#3b82f6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 780h130" stroke="#60a5fa" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 830h100" stroke="#93c5fd" stroke-width="16" stroke-linecap="round"/>
+  <path d="M510 730l72-90 78 54" fill="none" stroke="#f59e0b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1340 680l120-80 140 32" stroke="#38bdf8" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <rect x="1420" y="670" width="250" height="180" rx="26" fill="#111827" opacity="0.7"/>
+  <path d="M1470 700l120-70" stroke="#4ade80" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1470 760l120-20" stroke="#f97316" stroke-width="14" stroke-linecap="round"/>
+  <rect x="320" y="160" width="830" height="140" rx="30" fill="rgba(255,255,255,0.13)"/>
+  <text x="360" y="230" font-family="Inter, sans-serif" font-size="50" font-weight="800" fill="#ffffff">MANUTENÇÃO DE COMPUTADORES</text>
+  <text x="360" y="300" font-family="Inter, sans-serif" font-size="28" fill="#cbd5e1">Diagnóstico · Limpeza · Troca de componentes · Formatação · Upgrade</text>
+  <text x="1320" y="940" font-family="Space Grotesk, sans-serif" font-size="96" font-weight="800" fill="url(#screenGrad)" opacity="0.9">JR Manutenção</text>
+  <rect x="360" y="230" width="40" height="40" rx="12" fill="#facc15"/>
+  <path d="M382 245l14-14m0 14l-14-14" stroke="#0f172a" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="1460" cy="190" r="26" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="1500" cy="170" r="18" fill="#a855f7" opacity="0.9"/>
+  <circle cx="1540" cy="210" r="12" fill="#f472b6" opacity="0.9"/>
+  <rect x="260" y="280" width="120" height="90" rx="18" fill="#0f172a" opacity="0.85"/>
+  <g opacity="0.14" filter="url(#softGlow)">
+    <circle cx="1480" cy="680" r="120" fill="#60a5fa"/>
+    <circle cx="450" cy="860" r="165" fill="#f97316"/>
+  </g>
+  <rect x="260" y="280" width="120" height="90" rx="18" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.5"/>
+</svg>

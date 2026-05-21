@@ -1,0 +1,52 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="shapeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bgGrad)"/>
+  <circle cx="430" cy="330" r="200" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="1560" cy="220" r="180" fill="#38bdf8" opacity="0.14"/>
+  <ellipse cx="1450" cy="780" rx="280" ry="140" fill="#22c55e" opacity="0.12"/>
+  <path d="M350 720C320 650 390 610 460 620C520 630 540 700 500 740C420 790 370 780 350 720Z" fill="#7c3aed" opacity="0.16"/>
+  <path d="M1120 320C1180 280 1260 340 1240 400C1220 470 1140 480 1080 450C1040 420 1100 360 1120 320Z" fill="#fb7185" opacity="0.18"/>
+  <path d="M970 470C1030 430 1120 450 1160 510C1200 570 1180 650 1120 690C1060 720 980 700 950 630C930 570 930 520 970 470Z" fill="url(#shapeGrad)" opacity="0.2"/>
+  <g opacity="0.72" stroke="url(#lineGrad)" stroke-width="16" stroke-linecap="round">
+    <path d="M300 880L520 740L760 780L920 620L1180 640L1360 520"/>
+    <path d="M450 820L580 620L750 680L910 520L1130 560L1290 430"/>
+  </g>
+  <g stroke="#0f172a" stroke-width="12" stroke-linecap="round" opacity="0.25">
+    <path d="M1400 900L1600 760"/>
+    <path d="M1420 920L1620 780"/>
+  </g>
+  <g filter="url(#blur)" opacity="0.4">
+    <rect x="920" y="140" width="520" height="320" rx="42" fill="#ffffff"/>
+  </g>
+  <rect x="920" y="140" width="520" height="320" rx="42" fill="rgba(255,255,255,0.15)"/>
+  <text x="1040" y="260" fill="#0f172a" font-family="Inter, sans-serif" font-weight="800" font-size="72">JR Manutenção</text>
+  <text x="975" y="340" fill="#334155" font-family="Inter, sans-serif" font-weight="600" font-size="32">Soluções em manutenção de computadores</text>
+  <path d="M1120 420L1320 420L1320 550L1120 550Z" fill="#c084fc" opacity="0.22"/>
+  <path d="M1060 520L1140 520L1140 620L1060 620Z" fill="#38bdf8" opacity="0.22"/>
+  <g fill="#0f172a" opacity="0.18">
+    <circle cx="1480" cy="630" r="14"/>
+    <circle cx="1518" cy="690" r="10"/>
+    <circle cx="1560" cy="760" r="18"/>
+  </g>
+  <foreignObject x="340" y="420" width="250" height="220">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Inter, sans-serif; display:flex; flex-direction:column; justify-content:center; height:100%; gap:12px; color:#0f172a; opacity:0.8;">
+      <div style="background: rgba(255,255,255,0.9); border-radius:20px; padding:18px; box-shadow: 0 18px 30px rgba(15,23,42,0.08);">
+        <div style="font-size:18px; font-weight:700;">IA & manutenção</div>
+        <div style="font-size:14px; line-height:1.5;">Arte criada por IA para inspirar sua manutenção tecnológica.</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

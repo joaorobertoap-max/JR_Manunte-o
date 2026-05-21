@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="#0f172a"/>
+  <rect x="24" y="48" width="272" height="144" rx="16" fill="#1e293b" stroke="#a5b4fc" stroke-width="4"/>
+  <rect x="40" y="64" width="240" height="24" rx="12" fill="#c7d2fe"/>
+  <rect x="40" y="104" width="240" height="24" rx="12" fill="#e0e7ff"/>
+  <rect x="40" y="144" width="240" height="24" rx="12" fill="#c7d2fe"/>
+  <text x="50%" y="86%" text-anchor="middle" fill="#f8fafc" font-family="Arial, sans-serif" font-size="22">Memória RAM 8GB</text>
+</svg>

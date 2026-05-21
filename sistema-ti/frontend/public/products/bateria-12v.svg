@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="#111827"/>
+  <rect x="16" y="56" width="288" height="128" rx="18" fill="#0f172a" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="128" y="28" width="64" height="24" rx="8" fill="#38bdf8"/>
+  <text x="50%" y="53%" text-anchor="middle" fill="#f8fafc" font-family="Arial, sans-serif" font-size="22">Bateria 12V</text>
+  <text x="50%" y="70%" text-anchor="middle" fill="#93c5fd" font-family="Arial, sans-serif" font-size="16">Energia confiável</text>
+</svg>

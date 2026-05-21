@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="#374151"/>
+  <rect x="24" y="24" width="272" height="192" rx="24" fill="#1f2937"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#d1d5db" font-family="Arial, sans-serif" font-size="24">Nenhuma imagem</text>
+  <text x="50%" y="62%" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="16">Disponível</text>
+</svg>
